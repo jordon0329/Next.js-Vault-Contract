@@ -98,3 +98,14 @@ ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
 [![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
 [![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
 [![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+
+# Smart Contract address
+
+This is the address of the vault at Goerli:
+0x696dA2B5968f33F8C60e02F660e84B04709Da30b
+
+This is the address of the distribution contract:
+0xdAd37C0FB1A095bc9D237BB4A55F5FD6eab2B54e
+
+And this is the DAO contract:
+0xF713C86d5e5560D5F69A1B1d1DA3E4d45e9c5F3a
